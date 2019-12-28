@@ -16,4 +16,4 @@ I think it would be much better if anyone had told me this earlier. Actually the
 
 ## Rationale
 
-### PLARIARISM-FREE
+### PLAGIARISM-FREE

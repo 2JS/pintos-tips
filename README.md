@@ -14,6 +14,21 @@ I expect similar time difference for testing. I'm impressed! 73% saving on compl
 
 I think it would be much better if anyone had told me this earlier. Actually there was several other similar things. To help people learning pintos, I created this repository.
 
-## Rationale
+## Rationale and Principles
 
 ### PLAGIARISM-FREE
+
+## Contribution
+
+## Tips
+
+### Code
+
+### Build
+
+### Run
+
+### Debug
+
+### Miscellaneous
+
